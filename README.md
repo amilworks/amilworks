@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @amilworks
 
-👨‍🔬 I am currently a __PhD student at UCSB's Electrical and Computer Engineering Department.__ 
+👨‍🔬 I am currently a __PhD student at UCSB's Electrical and Computer Engineering Department__ with an emphasis in Signal Processing. I am also an NSF NRT DDB Fellow. 
 
 🤖 My research focuses on __building large-scale machine learning systems for image and video processing.__ 
 
